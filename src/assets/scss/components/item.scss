@@ -1,0 +1,14 @@
+.item {
+    margin-bottom: 1rem;
+    &-card {
+        border: {
+            width: 1px;
+            style: solid;
+            color: #4fc08d;
+            radius: 4px;
+        }
+        padding: 5px;
+        padding-bottom: 10px;
+        cursor: pointer;
+    }
+}
